@@ -6,4 +6,5 @@ doc/app
 db/*.sqlite3
 *.sqp
 *~
+.idea/*
 .DS_Store
